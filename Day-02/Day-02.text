@@ -1,8 +1,8 @@
 Day-02[15-02-2023]:
 ===================
 	Good Morning All..
-
-	Concepts:
+    
+    Concepts:
     =========
         - Static File Handling [Accessing external css file]
         - Data rendering from template to controller and then controller to another template
@@ -135,3 +135,14 @@ Day-02[15-02-2023]:
                                 or
             = objectname = classname.objects.all(fieldname="value").delete()
 
+    Task:
+    =====
+        Python:
+        -------
+            - OOPS concepts like class,object,method,constructor and its types,inheritance and its types
+            - Package and modules with oops concepts
+
+        Bootstrap-4:
+        ------------
+            - Alerts,jumbotron,buttons,grid system
+            - Cards,table,images,color
