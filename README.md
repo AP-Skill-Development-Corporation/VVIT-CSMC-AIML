@@ -15,8 +15,13 @@ Day-02[15-02-2024]:
 ===================
   - Template Creation, data rendering from template to controller and then controller to another template
   - Interface between controller and template
-  - DTL langauge for accessing a varialbe value in template
+  - DTL language for accessing a varialbe value in template
   - Static File handling, accessing css file to a template with an example
   - Model Creation,makemigrations,migrate,Model Queries in a shell
   - CRUD Operations by using ORM Queries with sample example on each
-  - Bootstrap-4 grid system,container,card,buttons,color and form controls with sample examples on each  
+  - Bootstrap-4 grid system,container,card,buttons,color and form controls with sample examples on each
+
+Day-03[16-02-2024]:
+===================
+  - CRUD Operations in basic procedure by using templates
+  - Template blocks,DTL language for variable,conditional statements,loops with sample example on each
