@@ -6,5 +6,25 @@ Day-04[17-02-2023]:
     =========
         - CRUD Operations by using forms concept and form validations
         - Messages, Superuser Creation,admin app useage
-        - Roles of Superuser and User Registration with existing model 
+        - Roles of Superuser and User Registration with existing model
+
+    References:
+    ===========
+        - Cloud with Django
+        - Dennis Ivy
+        - HalogeniusIdeas
+        - Geeky Shows
+        - WsCube Tech
+        - Bob's Programming Academy
+        - CryceTruly
+
+    Sample Projects:
+    ===============
+        - https://www.youtube.com/watch?v=qmu0oWLr8nM&ab_channel=HalogeniusIdeas
+        - https://www.youtube.com/watch?v=EUMpUUXKvP0&ab_channel=Bob%27sProgrammingAcademy
+        - https://www.youtube.com/watch?v=gAI218HSK8s&list=PLx-q4INfd95G-wrEjKDAcTB1K-8n1sIiz&ab_channel=CryceTruly
+
+    Django with Angular:
+    ====================
+        - https://www.youtube.com/watch?v=J9KSo-h4aXc&list=PLTgRMOcmRb3Oxj1oKJYsW2-JjRjtlFvoQ&ab_channel=Packt 
     
