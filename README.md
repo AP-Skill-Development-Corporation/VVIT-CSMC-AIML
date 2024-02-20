@@ -25,3 +25,9 @@ Day-03[16-02-2024]:
 ===================
   - CRUD Operations in basic procedure by using templates
   - Template blocks,DTL language for variable,conditional statements,loops with sample example on each
+
+Day-04[17-02-2024]:
+===================
+  - CRUD Operations by using forms concept and form validations
+  - Superuser creation,Useage of admin app and roles of superuser,
+  - User Registration and widgets concept with sample example on each
